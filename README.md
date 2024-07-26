@@ -1,2 +1,2 @@
 # PROGRAMMING-LANGUAGE-CONCEPTS
-Source codes for the programming assignments for CENG242
+Source codes for the programming exams for CENG242
